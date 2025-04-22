@@ -1,0 +1,364 @@
+[
+    {
+      "CategoryName": "Engine Parts",
+      "name": "Spark Plug",
+      "img": "https://media.torque.com.sg/public/2019/03/e3-pulstar-spark-plugs.jpg",
+      "options": [
+        { "Bosch": "800", "NGK": "750", "Denso": "900" }
+      ],
+      "description": "High-performance spark plug for efficient combustion."
+    },
+    {
+      "CategoryName": "Engine Parts",
+      "name": "Piston",
+      "img": "https://media.istockphoto.com/id/490267829/photo/v6-engine-pistons-3d-image.jpg",
+      "options": [
+        { "Standard": "5000", "Oversized": "8000", "Mahle (Premium)": "15000" }
+      ],
+      "description": "Durable engine piston for better efficiency and power."
+    },
+    {
+      "CategoryName": "Engine Parts",
+      "name": "Crankshaft",
+      "img": "https://t4.ftcdn.net/jpg/01/21/49/19/360_F_121491969_kTvzs1XtY7ZgP1fvHhL7QpX4mhIp6QUg.jpg",
+      "options": [
+        { "OEM": "25000", "Aftermarket": "15000", "Eagle (Performance)": "35000" }
+      ],
+      "description": "Forged crankshaft designed for high durability."
+    },
+    {
+      "CategoryName": "Engine Parts",
+      "name": "Timing Belt",
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/028/719/685/small/an-image-of-all-the-different-parts-that-are-used-in-cars-free-photo.jpg",
+      "options": [
+        { "Gates": "4500", "Dayco": "4000", "Local Brand": "2500" }
+      ],
+      "description": "Durable timing belt for synchronized engine operation."
+    },
+    {
+      "CategoryName": "Engine Parts",
+      "name": "Camshaft",
+      "img": "https://www.shutterstock.com/image-vector/car-camshaft-on-white-industrial-600nw-1658931178.jpg",
+      "options": [
+        { "Comp Cams": "20000", "Crower": "18000", "OEM": "12000" }
+      ],
+      "description": "High-performance camshaft for optimal valve timing."
+    },
+    {
+      "CategoryName": "Braking System",
+      "name": "Brake Pad",
+      "img": "https://media.istockphoto.com/id/503317759/photo/brake-pads.jpg",
+      "options": [
+        { "Brembo": "8000", "Bosch": "5000", "Rangs (Local)": "3000" }
+      ],
+      "description": "High-quality brake pads for smooth stopping power."
+    },
+    {
+      "CategoryName": "Braking System",
+      "name": "Brake Disc",
+      "img": "https://media.istockphoto.com/id/976970678/photo/car-brake-disc-and-red-caliper-isolated.jpg",
+      "options": [
+        { "Brembo": "15000", "ACDelco": "12000", "Local Brand": "8000" }
+      ],
+      "description": "Ventilated disc brakes for improved cooling."
+    },
+    {
+      "CategoryName": "Braking System",
+      "name": "Brake Caliper",
+      "img": "https://png.pngtree.com/thumb_back/fh260/background/20230707/pngtree-isolated-on-white-3d-rendering-red-racing-calipers-paired-with-efficient-image_3791823.jpg",
+      "options": [
+        { "Wilwood": "25000", "Brembo": "30000", "Aftermarket": "15000" }
+      ],
+      "description": "Performance calipers for better brake response."
+    },
+    {
+      "CategoryName": "Braking System",
+      "name": "Brake Master Cylinder",
+      "img": "https://media.istockphoto.com/id/526198357/photo/brake-master-cylinder.jpg",
+      "options": [
+        { "ACDelco": "10000", "Dorman": "8000", "Local Brand": "5000" }
+      ],
+      "description": "Essential hydraulic component for braking pressure control."
+    },
+    {
+      "CategoryName": "Suspension System",
+      "name": "Shock Absorber",
+      "img": "https://media.istockphoto.com/id/1284268887/photo/pair-of-car-shock-absorbers-with-springs-suspension-components.jpg",
+      "options": [
+        { "Monroe": "12000", "KYB": "10000", "BOS (Local)": "7000" }
+      ],
+      "description": "Reduces vibrations and improves ride comfort."
+    },
+    {
+      "CategoryName": "Suspension System",
+      "name": "Strut",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPU2mTUwfeR4KP35Gyzyl3om-iqYw4LsjS_f2We6kOqbcJSyt_lDvXPkxCQmat1MssxBg&usqp=CAU",
+      "options": [
+        { "KYB": "15000", "Bilstein": "18000", "Aftermarket": "10000" }
+      ],
+      "description": "Heavy-duty struts for enhanced handling."
+    },
+    {
+      "CategoryName": "Suspension System",
+      "name": "Control Arm",
+      "img": "https://www.autoworlddergisi.com/wp-content/uploads/2019/05/Querlenker_3160500135HD_18x12.jpg",
+      "options": [
+        { "MOOG": "8000", "Dorman": "6000", "Local Brand": "4000" }
+      ],
+      "description": "Reinforced control arms for smooth suspension movement."
+    },
+    {
+      "CategoryName": "Suspension System",
+      "name": "Ball Joint",
+      "img": "https://media.istockphoto.com/id/1202040577/photo/new-spare-parts-spherical-ball-joints-of-a-suspension-bracket-of-a-car-on-a-gray-background.jpg",
+      "options": [
+        { "MOOG": "5000", "Dorman": "4000", "Local Brand": "2500" }
+      ],
+      "description": "Heavy-duty ball joint for smooth steering and stability."
+    },
+    {
+      "CategoryName": "Suspension System",
+      "name": "Stabilizer Bar",
+      "img": "https://partsource.ca/cdn/shop/products/0229900_1_c836ebbf-4f3d-414a-87ad-f9c0230ef445_720x720.jpg?v=1575643879",
+      "options": [
+        { "Whiteline": "12000", "Eibach": "10000", "Local Brand": "6000" }
+      ],
+      "description": "Enhances stability and reduces body roll."
+    },
+    {
+      "CategoryName": "Electrical System",
+      "name": "Car Battery",
+      "img": "https://media.istockphoto.com/id/96656925/photo/generic-car-battery-on-a-white-background.jpg",
+      "options": [
+        { "Exide": "9000", "Amaron": "10000", "Rahimafrooz (Local)": "7500" }
+      ],
+      "description": "Long-lasting battery for reliable car starting."
+    },
+    {
+      "CategoryName": "Electrical System",
+      "name": "Alternator",
+      "img": "https://media.istockphoto.com/id/1343860804/photo/car-alternator-isolated-on-white-background-3d.jpg",
+      "options": [
+        { "Denso": "25000", "Bosch": "20000", "Local Reconditioned": "12000" }
+      ],
+      "description": "Efficient alternator for stable power supply."
+    },
+    {
+      "CategoryName": "Electrical System",
+      "name": "Starter Motor",
+      "img": "https://5.imimg.com/data5/YJ/XQ/MY-46586489/vehicle-starter-motor.jpg",
+      "options": [
+        { "Delco Remy": "20000", "Valeo": "18000", "Local Rebuilt": "10000" }
+      ],
+      "description": "Powerful starter motor for quick engine ignition."
+    },
+    {
+      "CategoryName": "Electrical System",
+      "name": "Ignition Coil",
+      "img": "https://assets.denso-am.eu/production/news/2021/1899-013_700x467.jpg",
+      "options": [
+        { "Bosch": "5000", "Denso": "4500", "Local Brand": "3000" }
+      ],
+      "description": "Boosts voltage for efficient spark plug performance."
+    },
+    {
+      "CategoryName": "Electrical System",
+      "name": "Headlights",
+      "img": "https://s.alicdn.com/@sc04/kf/H968615810da9446cb59890fbc66bbd9dM.jpg_300x300.jpg",
+      "options": [
+        { "Philips (LED)": "6000", "Sylvania (Halogen)": "4000", "Local Brand": "2500" }
+      ],
+      "description": "Bright LED headlights for improved night visibility."
+    },
+    {
+      "CategoryName": "Cooling System",
+      "name": "Radiator",
+      "img": "https://png.pngtree.com/background/20230525/original/pngtree-3d-model-of-the-radiator-picture-image_2732262.jpg",
+      "options": [
+        { "Behr": "18000", "Denso": "15000", "Local Aluminum": "10000" }
+      ],
+      "description": "Aluminum radiator for effective engine cooling."
+    },
+    {
+      "CategoryName": "Cooling System",
+      "name": "Thermostat",
+      "img": "https://thumbs.dreamstime.com/b/car-thermostat-new-pressure-relief-valve-engine-coolant-92802019.jpg",
+      "options": [
+        { "Gates": "2500", "Stant": "2000", "Local Brand": "1200" }
+      ],
+      "description": "Thermostat ensures optimal engine temperature."
+    },
+    {
+      "CategoryName": "Cooling System",
+      "name": "Water Pump",
+      "img": "https://www.idolz.com/wp-content/uploads/2021/04/water-pump-dolz.jpg",
+      "options": [
+        { "Aisin": "10000", "GMB": "8000", "Local Replacement": "5000" }
+      ],
+      "description": "Durable water pump for proper coolant circulation."
+    },
+    {
+      "CategoryName": "Cooling System",
+      "name": "Coolant Reservoir",
+      "img": "https://www.shutterstock.com/image-photo/cars-engine-coolant-water-supply-600nw-2156182727.jpg",
+      "options": [
+        { "OEM": "4000", "Dorman": "3000", "Local Brand": "2000" }
+      ],
+      "description": "Stores excess coolant to prevent overheating."
+    },
+    {
+      "CategoryName": "Cooling System",
+      "name": "Radiator Hose",
+      "img": "https://media.istockphoto.com/id/1214587833/photo/a-car-radiator-pipe-rubber-black-spare-part-isolated-object-on-white-background.jpg",
+      "options": [
+        { "Gates": "2500", "ACDelco": "2000", "Local Brand": "1500" }
+      ],
+      "description": "Flexible and durable hose for coolant circulation."
+    },
+    {
+      "CategoryName": "Exhaust System",
+      "name": "Muffler",
+      "img": "https://media.istockphoto.com/id/533006281/photo/car-exhaust-pipe.jpg",
+      "options": [
+        { "MagnaFlow": "18000", "Borla": "20000", "Local Fabricated": "10000" }
+      ],
+      "description": "Reduces exhaust noise and improves airflow."
+    },
+    {
+      "CategoryName": "Exhaust System",
+      "name": "Catalytic Converter",
+      "img": "https://www.shutterstock.com/image-photo/catalytic-converter-car-isolated-on-600nw-1905389011.jpg",
+      "options": [
+        { "Walker": "40000", "MagnaFlow": "50000", "Local Fabricated": "25000" }
+      ],
+      "description": "Reduces vehicle emissions and enhances efficiency."
+    },
+    {
+      "CategoryName": "Transmission System",
+      "name": "Clutch Plate",
+      "img": "https://thumbs.dreamstime.com/b/vector-clutch-plate-cover-isolated-white-background-211641733.jpg",
+      "options": [
+        { "Exedy": "15000", "Sachs": "12000", "Local Brand": "8000" }
+      ],
+      "description": "High-performance clutch plate for smooth gear shifts."
+    },
+    {
+      "CategoryName": "Transmission System",
+      "name": "Gearbox",
+      "img": "https://acko-cms.ackoassets.com/gearbox_2_cde1648091.png",
+      "options": [
+        { "OEM": "120000", "ZF": "100000", "Local Rebuilt": "60000" }
+      ],
+      "description": "Durable transmission gearbox for seamless driving."
+    },
+    {
+      "CategoryName": "Body & Exterior",
+      "name": "Side Mirror",
+      "img": "https://m.media-amazon.com/images/I/81oTA3HtoTL.jpg",
+      "options": [
+        { "OEM": "5000", "Aftermarket": "3000", "Local Brand": "2000" }
+      ],
+      "description": "Quality side mirror for clear visibility and improved safety."
+    },
+    {
+        "CategoryName": "Interior Components",
+        "name": "Car Seat Cover",
+        "img": "https://images-cdn.ubuy.co.in/65228102e06046439837ba7c-otoez-car-seat-covers-5-seats-full-set.jpg",
+        "options": [
+          {
+            "Leather": "3000",
+            "Fabric": "1800"
+          }
+        ],
+        "description": "Comfortable and stylish seat covers to enhance your car's interior."
+      },
+      {
+        "CategoryName": "Tires & Wheels",
+        "name": "All-Season Tire",
+        "img": "https://mazdashop.ca/cdn/shop/files/michelin-pilot-sport-a-slash-s-4_2_1200x.jpg?v=1683575328",
+        "options": [
+          {
+            "Michelin": "8500",
+            "Bridgestone": "8200"
+          }
+        ],
+        "description": "Durable all-season tire for superior grip and road handling."
+      },
+      {
+          "CategoryName": "Fuel System",
+          "name": "Fuel Pump",
+          "img": "https://www.loyalparts.com/wp-content/uploads/2022/03/Nissan-16630-3JY0A-Genuine-High-Pressure-Fuel-Pump-Assy-LoyalParts-1.jpg",
+          "options": [
+            {"Bosch": "8500"},
+            {"Denso": "9000"},
+            {"Delphi": "8000"}
+          ],
+          "description": "High-pressure fuel pump for efficient fuel delivery."
+        },
+        {
+          "CategoryName": "Fuel System",
+          "name": "Fuel Filter",
+          "img": "https://m.media-amazon.com/images/I/71Bz4BLykKL._AC_UF1000,1000_QL80_.jpg",
+          "options": [
+            {"Mahle": "1200"},
+            {"Mann-Filter": "1500"},
+            {"Local Brand": "800"}
+          ],
+          "description": "Traps contaminants for clean fuel supply."
+        },
+        {
+          "CategoryName": "Fuel System",
+          "name": "Fuel Injector",
+          "img": "https://www.tags.co.za/wp-content/uploads/2024/04/ctp-heavy-machinery-fuel-injectors-768x424-1.png",
+          "options": [
+            {"Bosch": "4500"},
+            {"Denso": "5000"},
+            {"Refurbished": "3000"}
+          ],
+          "description": "Precision fuel injectors for optimal spray pattern."
+        },
+        {
+          "CategoryName": "Fuel System",
+          "name": "Fuel Tank",
+          "img": "https://www.ewimax.pl/hpeciai/579280242a02087c8d8652fc9bd6f73a/eng_pl_Loncin-H200-fuel-tank-ORIGINAL-PART-170501567-0001-38901_1.webp",
+          "options": [
+            {"OEM": "25000"},
+            {"Aftermarket": "18000"},
+            {"Local Fabricated": "12000"}
+          ],
+          "description": "Durable fuel tank with anti-corrosion coating."
+        },
+        {
+          "CategoryName": "Fuel System",
+          "name": "Fuel Pressure Regulator",
+          "img": "https://www.delphiautoparts.com/images/default-source/parts/part-fuel-management-care-fuel-pressure-regulator-us.png?sfvrsn=417d32d1_3",
+          "options": [
+            {"Bosch": "3500"},
+            {"Standard": "3000"},
+            {"Local Brand": "2000"}
+          ],
+          "description": "Maintains optimal fuel rail pressure."
+        },
+        {
+          "CategoryName": "Fuel System",
+          "name": "Fuel Rail",
+          "img": "https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/powertrain-solutions/benzin_saugrohreinspritzung_pkw/fuel-rail/thumbnail_kraftstoffzuteiler.jpg",
+          "options": [
+            {"OEM": "12000"},
+            {"Aftermarket": "9000"},
+            {"Local Brand": "6000"}
+          ],
+          "description": "Distributes fuel evenly to injectors."
+        },
+        {
+          "CategoryName": "Fuel System",
+          "name": "Throttle Body",
+          "img": "https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2023/09/12102903/Auto-Anatomy-Throttle-Body-_-Body-3-8-9-23-1024x640.jpg",
+          "options": [
+            {"Bosch": "9500"},
+            {"Denso": "10000"},
+            {"Refurbished": "6000"}
+          ],
+          "description": "Controls air intake for optimal engine performance."
+        }
+  ]

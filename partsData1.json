@@ -1,0 +1,36 @@
+[
+    {
+        "CategoryName": "Engine Components"
+    },
+    {
+        "CategoryName": "Transmission System"
+    },
+    {
+        "CategoryName": "Suspension System"
+    },
+    {
+        "CategoryName": "Braking System"
+    },
+    {
+        "CategoryName": "Electrical System"
+    },
+    {
+        "CategoryName": "Cooling System"
+    },
+    {
+        "CategoryName": "Body & Exterior"
+    },
+    {
+        "CategoryName": "Fuel System"
+    },
+    {
+        "CategoryName": "Exhaust System"
+    },
+    {
+        "CategoryName": "Interior Components"
+
+    },
+    {
+        "CategoryName":"Tires & Wheels"
+    }
+]

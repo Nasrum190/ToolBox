@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb+srv://nasrumul:EUXNGLKBdT2KFT4r@cluster0.rrnqq.mongodb.net/ToolBox1?retryWrites=true&w=majority&appName=Cluster0";
+const mongoURI = "DATABASE_URI";
 
 const mongoDB = async () => {
   try {
